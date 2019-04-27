@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  background-color: white
+}
+.App header{
+  height:3.2rem;
+  width: 'device-widht';
+  display: flex;
+  align-items: center;
+  background-color: #0c6648;
+}
+.App header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.App header ul li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.App header ul li{
+    float: left;
+}
+.App header ul li a:hover{
+background-color: #46bb94
+}
