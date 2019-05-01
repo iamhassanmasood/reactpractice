@@ -8,7 +8,7 @@ export default class header extends Component {
         <header>
             <nav>
                 <ul>
-                    <li><a href='/home'>Higher Order Component</a></li>
+                    <li><a href='/'>Higher Order Component</a></li>
                 </ul>
             </nav>
         </header>
