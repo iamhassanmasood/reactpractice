@@ -16,7 +16,7 @@ class App extends Component {
             email: user.email,
             thumbnail: user.picture.thumbnail
           }))
-        )
+        )  
         .then(contacts => this.setState({ contacts }));
     }
   

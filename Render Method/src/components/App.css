@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  background-color: white
+}
+.App :hover{
+  text-align: center;
+  background-color: black;
+  color:white;
+}
